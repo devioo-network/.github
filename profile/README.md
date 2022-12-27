@@ -13,9 +13,9 @@
 - [Discord](https://discord.devioo.com)
 
 ## Follow Us! ⭐
-#### To stay tuned for our next open source projects, don't hesitate to follow this GitHub organization.
+To stay tuned for our next open source projects, don't hesitate to follow this GitHub organization.
 
 ## Contact Us 📞
-#### To contact us, please reffer to our Discord server and open a ticket. We will respond you as soon as possible.
+To contact us, please reffer to our Discord server and open a ticket. We will respond you as soon as possible.
 
 ![DEVIOO_BANNER](https://devioo.alwaysdata.net/Others/DEVIOO_BANNER.png)
